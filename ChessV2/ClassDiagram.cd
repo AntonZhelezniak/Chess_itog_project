@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Ferz">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAQAAAAAAAAAAAAAAAABAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Ferz.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Figure" Collapsed="true">
+    <Position X="6" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAJgAAAAAAAAAAAAAQAABAAAAABEACAAAAAgAAQAAY=</HashCode>
+      <FileName>Figure.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Horse">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAIAAAAQAAA=</HashCode>
+      <FileName>Horse.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="King">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAABAAAAAAAAAAAABAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>King.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Map">
+    <Position X="14.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAwBoACAgTAigACAAggABBBgIACFAAAAIAAIECAAIAI=</HashCode>
+      <FileName>Map.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Peshka">
+    <Position X="9.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QEAABAAAAAAAAAAAAAgAAAAQAAABAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Peshka.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Slon">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAABAAAAAAAACAAQAAA=</HashCode>
+      <FileName>Slon.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StartGame">
+    <Position X="16" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAgAAAgAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>StartGame.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tura">
+    <Position X="11.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgEAAAABAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Tura.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
